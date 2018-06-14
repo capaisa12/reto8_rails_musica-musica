@@ -3,7 +3,7 @@
 # Table name: songs
 #
 #  id          :integer          not null, primary key
-#  artist_id   :integer
+#  album_id    :integer
 #  name        :text
 #  number      :integer
 #  preview_url :string(50)
